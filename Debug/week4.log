@@ -1,0 +1,4 @@
+﻿  1연습.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  week4.vcxproj -> C:\Users\Daewoong\Documents\Visual Studio 2015\Projects\week4\Debug\week4.exe
