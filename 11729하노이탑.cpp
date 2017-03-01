@@ -1,6 +1,7 @@
 #include<cstdio>
 #include<iostream>
 #include<math.h>
+//±è´ë¿õ
 using namespace std;
 int n, s;
 int f(int, int, int, int);

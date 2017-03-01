@@ -140,16 +140,10 @@
     <ClCompile Include="10448.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3085ing.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2309.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소풍.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2577ing.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11726.cpp">
