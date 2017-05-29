@@ -1,76 +1,75 @@
 #include<cstdio>
 #include<queue>
 #include<cstring>
+#include<algorithm>
 using namespace std;
-int map[330][330];
-int temp[330][330];
-bool check[330][330];
+int n, m, arr[310][310], temp[310][310], res;
 int dx[4] = { 0, 0, -1, 1 };
 int dy[4] = { 1, -1, 0, 0 };
-int n, m, cnt, year, ch, a;
-queue <pair<int, int>> qu;
+bool visited[310][310];
+int isPossible(int y, int x) {
+	if (y >= 0 && x >= 0 && y < n && x < m) return true;
+	return false;
+}
 void func(int y, int x) {
-	qu.push({ y, x });
-	check[y][x] = true;
-	while (int s = qu.size()) {
-		while (s--) {
-			int cx = qu.front().second;
-			int cy = qu.front().first;
-			qu.pop();
-			for (int i = 0; i < 4; i++) {
-				int nx = cx + dx[i];
-				int ny = cy + dy[i];
-				if (ny > n || nx > m) continue;
-				if (map[ny][nx] != 0 && !check[ny][nx]) {
-					check[ny][nx] = true;
-					qu.push({ ny, nx });
-				}
-			}
+	for (int i = 0; i < 4; i++) {
+		int nx = x + dx[i];
+		int ny = y + dy[i];
+		if (isPossible(ny, nx) && !arr[ny][nx]) {
+			temp[y][x]++;
+		}
+	}
+}
+void dfs(int y, int x) {
+	visited[y][x] = true;
+	for (int i = 0; i < 4; i++) {
+		int nx = x + dx[i];
+		int ny = y + dy[i];
+		if (isPossible(ny, nx) && !visited[ny][nx] && arr[ny][nx]) {
+			dfs(ny, nx);
 		}
 	}
 }
 int main() {
-	freopen("input.txt", "r", stdin);
 	scanf("%d %d", &n, &m);
-	for (int i = 1; i <= n; i++)
-		for (int j = 1; j <= m; j++)
-			scanf("%d", &map[i][j]);
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < m; j++) {
+			scanf("%d", &arr[i][j]);
+		}
+	}
 	while (1) {
-		cnt = 0;
-		for (int i = 1; i <= n; i++) {
-			for (int j = 1; j <= m; j++) {
-				if (check[i][j] == false && map[i][j] != 0) { 
-					func(j, i);
+		for (int i = 0; i < n; i++) {
+			for (int j = 0; j < m; j++) {
+				if (arr[i][j])
+					func(i, j);
+			}
+		}
+		for (int i = 0; i < n; i++) {
+			for (int j = 0; j < m; j++) {
+				arr[i][j] -= temp[i][j];
+				if (arr[i][j] < 0) arr[i][j] = 0;
+			}
+		}
+		int cnt = 0;
+		memset(visited, false, sizeof(visited));
+		memset(temp, false, sizeof(temp));
+		for (int i = 0; i < n; i++) {
+			for (int j = 0; j < m; j++) {
+				if (arr[i][j] && !visited[i][j]) {
+					dfs(i, j);
 					cnt++;
 				}
 			}
 		}
-		if (cnt = 0) year = 0;
-		memset(check, false, sizeof(check));
-		if (cnt > 1) break;
-		
-		for (int i = 1; i <= n; i++) {
-			for (int j = 1; j <= m; j++) {
-				if (map[i][j] != 0) {
-					for (int k = 0; k < 4; k++) {
-						int nx = j + dx[k];
-						int ny = i + dy[k];
-					if (map[ny][nx] == 0)	temp[i][j]++;
-					}
-				}
-			}
+		res++;
+		if (cnt >= 2) {
+			printf("%d\n", res);
+			break;
 		}
-		for (int i = 1; i <= n; i++) {
-			for (int j = 1; j <= m; j++) {
-				if (temp[i][j] != 0) {
-					map[i][j] -= temp[i][j];
-					if (map[i][j] < 0) map[i][j] = 0;
-				}
-			}
+		else if (!cnt) {
+			puts("0");
+			break;
 		}
-		memset(temp, 0, sizeof(temp));
 	}
-	
-	printf("%d", year);
 	return 0;
 }

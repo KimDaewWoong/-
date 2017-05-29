@@ -1,4 +1,4 @@
-//네트워크 플로우 포드-폴컨스
+//네트워크 플로우 에드몬드 카프
 #include <cstdio>
 #include <cstring>
 #include <vector>

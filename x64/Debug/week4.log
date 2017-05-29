@@ -1,0 +1,1060 @@
+﻿  코드몬스터2번.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '코드몬스터2번.cpp': No such file or directory
+  코드몬스터1번.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '코드몬스터1번.cpp': No such file or directory
+  와일드카드.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '와일드카드.cpp': No such file or directory
+  스택.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '스택.cpp': No such file or directory
+  capital.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\capital.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\capital.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\capital.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\capital.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  소풍.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '소풍.cpp': No such file or directory
+  소스3.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '소스3.cpp': No such file or directory
+  소스2.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '소스2.cpp': No such file or directory
+  소스1.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '소스1.cpp': No such file or directory
+  10610 30.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\10610 30.cpp(16): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\10610 30.cpp(12): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\10610 30.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  링크드리스트.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '링크드리스트.cpp': No such file or directory
+  더블링크드리스트.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '더블링크드리스트.cpp': No such file or directory
+  다익스트라.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '다익스트라.cpp': No such file or directory
+  1309동물원.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1309동물원.cpp(4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  wildcard.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\wildcard.cpp(14): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\wildcard.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2150SCC.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc.cpp(48): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc.cpp(57): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc.cpp(57): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  JLIS.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'JLIS.cpp': No such file or directory
+  IUPC_L.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_L.cpp': No such file or directory
+  IUPC_K.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_K.cpp': No such file or directory
+  IUPC_J.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_J.cpp': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  IUPC_E.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_E.cpp': No such file or directory
+  IUPC_C.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_C.cpp': No such file or directory
+  IUPC_B.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_B.cpp': No such file or directory
+  IUPC_A.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'IUPC_A.cpp': No such file or directory
+  fancake2.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake2.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake2.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake2.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  fancake.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\fancake.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  F.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'F.cpp': No such file or directory
+  E.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'E.cpp': No such file or directory
+  C.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'C.cpp': No such file or directory
+  bitgame.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\bitgame.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\bitgame.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  B.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'B.cpp': No such file or directory
+  asd.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'asd.cpp': No such file or directory
+  aaa.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'aaa.cpp': No such file or directory
+  A.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. 'A.cpp': No such file or directory
+  9494데구르르.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9494데구르르.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9494데구르르.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9465스티커.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9465스티커.cpp(13): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9465스티커.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9465스티커.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9465스티커.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9461.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9461(재귀).cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461(재귀).cpp(20): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461(재귀).cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9461(재귀).cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9413제주도관광.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(78): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(80): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(82): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(94): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int,int&,unsigned __int64>(_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int,int&,unsigned __int64>(_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int,int&,unsigned __int64>(_Ty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int,int&,unsigned __int64>(_Ty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(24): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int,int&,unsigned __int64>(int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9413제주도관광.cpp(24): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int,int&,unsigned __int64>(int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  9345DVDs.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(18): warning C4305: 'return': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(18): warning C4309: 'return': 상수 값이 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(36): warning C4305: 'return': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(36): warning C4309: 'return': 상수 값이 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(45): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(48): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9345dvds.cpp(56): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  9327상근이의여행.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9327상근이의여행.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9327상근이의여행.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9327상근이의여행.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9251.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9251.cpp(23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9251.cpp(24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9251.cpp(20): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  9095.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9095.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9095.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9095.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  9012.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9012.cpp(13): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\9012.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  8992집기게임.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(78): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(80): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(82): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(87): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(94): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int,int&,unsigned __int64>(_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int,int&,unsigned __int64>(_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int,int&,unsigned __int64>(_Ty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int,int&,unsigned __int64>(_Ty *,int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(24): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int,int&,unsigned __int64>(int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8992집기게임.cpp(24): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int,int&,unsigned __int64>(int &,int &&,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  8393합.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\8393합.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  7576토마토.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(31): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(36): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(33): warning C4101: 'fy' :참조되지 않은 지역 변수입니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7576토마토.cpp(33): warning C4101: 'fx' :참조되지 않은 지역 변수입니다.
+  7572간지.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7572간지.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  7469k번째숫자.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7469k번째숫자.cpp(9): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7469k번째숫자.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7469k번째숫자.cpp(21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7469k번째숫자.cpp(36): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  7453합이0인네정수.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7453합이0인네정수.cpp(27): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7453합이0인네정수.cpp(28): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7453합이0인네정수.cpp(11): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7453합이0인네정수.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\7453합이0인네정수.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  6135CowHurdles.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6135cowhurdles.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6135cowhurdles.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6135cowhurdles.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6135cowhurdles.cpp(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  6086최대유량.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(17): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(68): warning C4005: 'MAXX': 매크로 재정의
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(7): note: 'MAXX'의 이전 정의를 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(78): error C2084: 'int Ctol(char)' 함수에 이미 본문이 있습니다.
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(12): note: 'Ctol'의 이전 정의를 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(117): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(16): note: 'main'의 이전 정의를 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(125): error C2568: '=': 함수 오버로드를 확인할 수 없습니다.
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(125): note: 'int Ctol(char)'일 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(118): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(119): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\6086최대유량.cpp(124): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  singer.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\singer.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\singer.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\singer.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\singer.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\singer.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  hanoi.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\hanoi.cpp(38): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\hanoi.cpp(42): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\hanoi.cpp(43): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\hanoi.cpp(44): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  broad.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\broad.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\broad.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\broad.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  5988.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5988.cpp(19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5988.cpp(12): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5988.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  5909BaleShare.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5909baleshare.cpp(11): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5909baleshare.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5909baleshare.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  5676음주코딩.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5676음주코딩.cpp(21): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5676음주코딩.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5676음주코딩.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5676음주코딩.cpp(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  5637가장긴단어.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5637가장긴단어.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  5419북서풍.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(42): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(43): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(26): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5419북서풍.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  5398틀렸습니다.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5398틀렸습니다.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5398틀렸습니다.cpp(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5398틀렸습니다.cpp(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5398틀렸습니다.cpp(47): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  5052전화번호목록.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5052전화번호목록.cpp(38): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5052전화번호목록.cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5052전화번호목록.cpp(44): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\5052전화번호목록.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  4963.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4963.cpp(15): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4963.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4963.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  4716풍선.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4716풍선.cpp(76): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4716풍선.cpp(79): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4716풍선.cpp(88): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4716풍선.cpp(17): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4716풍선.cpp(17): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  4597.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4597.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  4564숫자카드놀이.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4564숫자카드놀이.cpp(10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4564.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4564.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4564.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\4564.cpp(30): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3980선발명단.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3980선발명단.cpp(77): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3980선발명단.cpp(79): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3980선발명단.cpp(83): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3653영화수집.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3653영화수집.cpp(18): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3653영화수집.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3653영화수집.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3653영화수집.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3640제독.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3640제독.cpp(77): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3640제독.cpp(79): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3640제독.cpp(92): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3640제독.cpp(23): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3640제독.cpp(23): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  3449.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3449.cpp(12): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3449.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3060.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3060.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3060.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3060.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3060.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3059등장하지않는문자의합.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3059등장하지않는문자의합.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  3040.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3040.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3040.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3020개똥벌레.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3020개똥벌레.cpp(20): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3020개똥벌레.cpp(21): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3020개똥벌레.cpp(10): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3020개똥벌레.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3020개똥벌레.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  3006터보소트.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(37): warning C4244: '인수': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(41): warning C4244: '인수': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(43): warning C4244: '인수': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(25): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\3006터보소트.cpp(29): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2960에라토스테네스의체.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2960에라토스테네스의체.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2846.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2846.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2846.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2846.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2841외계인의기타연주.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2841외계인의기타연주.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2841외계인의기타연주.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2839.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2839.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  2804크로스워드만들기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2804크로스워드만들기.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  2755이번학기평점은.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2755이번학기평점은.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  2749피보나치수3.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2749피보나치수3.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2747피보나치수.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2747피보나치수.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2740행렬의곱셈.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2740행렬의곱셈.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2740행렬의곱셈.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2740행렬의곱셈.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2740행렬의곱셈.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2740행렬의곱셈.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2739구구단.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2739구구단.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2703Cryptoquote.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2703cryptoquote.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2703cryptoquote.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2669직사각형네개의.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2669직사각형네개의.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2667단지번호붙이기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2667단지번호붙이기.cpp(18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2667단지번호붙이기.cpp(38): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2667단지번호붙이기.cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2666벽장문의이동.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2666벽장문의이동.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2666벽장문의이동.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2644촌수계산.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2644촌수계산.cpp(13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2644촌수계산.cpp(33): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2644촌수계산.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2644촌수계산.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2638치즈.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2638치즈.cpp(16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2638치즈.cpp(35): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2638치즈.cpp(36): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2638치즈.cpp(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2631줄세우기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2631줄세우기.cpp(22): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2631줄세우기.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2631줄세우기.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2624동전바꿔주기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2624동전바꿔주기.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2624동전바꿔주기.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2624동전바꿔주기.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2606바이러스.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2606바이러스.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2606바이러스.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2589보물섬.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2589보물섬.cpp(16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2589보물섬.cpp(35): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2589보물섬.cpp(36): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2579계단오르기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2579계단오르기.cpp(19): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2579계단오르기.cpp(21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2579계단오르기.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2573빙산.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2573빙산.cpp(15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2573빙산.cpp(33): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2573빙산.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2573빙산.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2530인공지능시계.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2530인공지능시계.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2525오븐시계.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2525오븐시계.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  2493탑.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2493탑.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2493탑.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2493탑.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2468안전영역.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2468안전영역.cpp(15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2468안전영역.cpp(34): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2468안전영역.cpp(35): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2468안전영역.cpp(38): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2456나는학급회장이다.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2456나는학급회장이다.cpp(7): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2456나는학급회장이다.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2456나는학급회장이다.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2455지능형기차.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2455지능형기차.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2455지능형기차.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2357최소값과최대값.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(18): warning C4305: 'return': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(18): warning C4309: 'return': 상수 값이 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(36): warning C4305: 'return': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(36): warning C4309: 'return': 상수 값이 잘립니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(45): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(49): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2357최소값과최대값.cpp(55): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2259두더지잡기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2259두더지잡기.cpp(15): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2259두더지잡기.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2259두더지잡기.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2352반도체설계.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2352반도체설계.cpp(19): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2352반도체설계.cpp(10): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2352반도체설계.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2352반도체설계.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2336굉장한학생.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2336굉장한학생.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2336굉장한학생.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2336굉장한학생.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2336굉장한학생.cpp(35): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2316도시왕복하기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2316도시왕복하기.cpp(58): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2316도시왕복하기.cpp(59): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2316도시왕복하기.cpp(66): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2311왕복여행.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2311왕복여행.cpp(75): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2311왕복여행.cpp(77): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2311왕복여행.cpp(84): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator<_Ty>::construct<_Objty,int&,int&,int&,unsigned __int64>(_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::allocator_traits<_Alloc>::construct<_Ty,int&,int&,int&,unsigned __int64>(std::allocator<_Ty> &,_Objty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MinCostMaxFlow::Edge>,
+              _Ty=MinCostMaxFlow::Edge,
+              _Objty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(930): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(929): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,int&,int&,int&,unsigned __int64>(_Ty *,int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2311왕복여행.cpp(16): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2311왕복여행.cpp(16): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MinCostMaxFlow::Edge,std::allocator<_Ty>>::emplace_back<int&,int&,int&,unsigned __int64>(int &,int &,int &,unsigned __int64 &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MinCostMaxFlow::Edge
+          ]
+  2231분해합.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2231분해합.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2309.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2309.cpp(23): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2309.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2294동전2.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2294동전2.cpp(11): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2294동전2.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2294동전2.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2293동전1.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2293동전1.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2293동전1.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2293동전1.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2263트리의순회.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(14): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(22): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2263트리의순회.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2252줄세우기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2252줄세우기.cpp(19): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2252줄세우기.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2252줄세우기.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2248이진수찾기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2248이진수찾기.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2248이진수찾기.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2240자두나무.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2240자두나무.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2240자두나무.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2240자두나무.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2225합분해.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2225합분해.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2225합분해.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2196이진수XOR.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2196이진수xor.cpp(11): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2196이진수xor.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  2178미로탐색.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2178미로탐색.cpp(20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2178미로탐색.cpp(40): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2178미로탐색.cpp(42): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2172팰린드롬경로.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2172팰린드롬경로.cpp(40): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2172팰린드롬경로.cpp(42): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2172팰린드롬경로.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2169로봇조종하기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2169로봇조종하기.cpp(34): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  2167이차원배열의합.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2167이차원배열의합.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2167이차원배열의합.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2167이차원배열의합.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2167이차원배열의합.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2156포도주시식.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2156포도주시식.cpp(21): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2156포도주시식.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2156포도주시식.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2150SCC코사라주.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc코사라주.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2150scc코사라주.cpp(36): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2096.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2096.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2096.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2096.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  2042구간합.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2042구간합.cpp(23): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2042구간합.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2042구간합.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\2042구간합.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1연습.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1연습.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1991트리순회.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1991트리순회.cpp(33): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1991트리순회.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1991트리순회.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1978소수찾기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1978소수찾기.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1978소수찾기.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1966프린터큐.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1966프린터큐.cpp(5): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1966프린터큐.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1966프린터큐.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1966프린터큐.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1965상자넣기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1965상자넣기.cpp(22): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1965상자넣기.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1965상자넣기.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1946신입사원.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1946신입사원.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1946신입사원.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1946신입사원.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1934최소공배수.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1934최소공배수.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1934최소공배수.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1932.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1932.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1932.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1932.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1929소수구하기.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1929소수구하기.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1924이천칠년.cpp
+  1874스택수열.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1874스택수열.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1874스택수열.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1874스택수열.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  1764.cpp
+c:\users\daewoong\documents\visual studio 2015\projects\week4\week4\1764.cpp(8): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  1759.cpp

@@ -27,7 +27,7 @@ int func() {
 }
 int main() {
 	freopen("input.txt", "r", stdin);
-	scanf("%d%d", &n, &m);
+	scanf("%d %d", &n, &m);
 	a.resize(n + 1);
 	for (int i = 1; i <= n; i++) {
 		int k, z = 0;

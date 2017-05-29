@@ -105,12 +105,14 @@ int main() {
 			mcmf.addEdge(i, a + n, b, 1);
 		}
 	}
+	
 	for (int i = 0; i < n; ++i) {
 		mcmf.addEdge(src, i, 0, 1);
 	}
 	for (int i = 0; i < m; ++i) {
 		mcmf.addEdge(i + n, sink, 0, 1);
 	}
+
 	pair<int, int> ans = mcmf.solve(src, sink);
 	printf("%d\n%d", ans.first, ans.second);
 	return 0;

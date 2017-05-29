@@ -33,7 +33,6 @@ int main() {
 	return 0;
 }
 bool tf(int x, int y) {
-
 	if (x >= 0 && y >= 0 && x < a && y < b && n[x][y] == 1) return true;
 	return false;
 }
