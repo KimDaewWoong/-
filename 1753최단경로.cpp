@@ -32,7 +32,6 @@ int main() {
 				pq.push({ -dist[there], there });
 			}
 		}
-
 	}
 	for (int i = 1; i <= n; i++) {
 		if (dist[i] == INF) puts("INF");

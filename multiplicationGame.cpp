@@ -7,8 +7,6 @@ int t, n, m, L, hp, k;
 int A[1050], B[1050];
 pair<int, int> pa[6250010];
 int main() {
-	//	freopen("input.txt", "r", stdin);
-	//	freopen("output.txt", "w+", stdout);
 	scanf("%d", &t);
 	while (t--) {
 		memset(pa, 0, sizeof(pa));
